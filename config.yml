@@ -1,6 +1,6 @@
-baseURL: ""
+baseURL: "https://bright-macaron-4a047f.netlify.app/"
 languageCode: en-us
-title: My site
+title: My first site 
 theme: PaperMod
 
 params:
